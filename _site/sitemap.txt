@@ -1,10 +1,16 @@
 
-http://username.github.io/archive.html
-http://username.github.io/atom.xml
-http://username.github.io/categories.html
-http://username.github.io/index.html
-http://username.github.io/rss.xml
-http://username.github.io/sitemap.txt
-http://username.github.io/tags.html
+http://dshining.github.io/404.html
+http://dshining.github.io/archive.html
+http://dshining.github.io/atom.xml
+http://dshining.github.io/categories.html
+http://dshining.github.io/index.html
+http://dshining.github.io/rss.xml
+http://dshining.github.io/sitemap.txt
+http://dshining.github.io/tags.html
 
-http://username.github.io/lessons/2011/12/29/jekyll-introduction
+http://dshining.github.io/lessons/2011/12/29/jekyll-introduction%20-%20Copy%20(5)
+http://dshining.github.io/lessons/2011/12/29/jekyll-introduction%20-%20Copy%20(4)
+http://dshining.github.io/lessons/2011/12/29/jekyll-introduction%20-%20Copy%20(3)
+http://dshining.github.io/lessons/2011/12/29/jekyll-introduction%20-%20Copy%20(2)
+http://dshining.github.io/lessons/2011/12/29/jekyll-introduction%20-%20Copy
+http://dshining.github.io/lessons/2011/12/29/jekyll-introduction

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello World!
+title: Dshining - Let the data shine for you!
 tagline: Supporting tagline
 ---
 {% include JB/setup %}

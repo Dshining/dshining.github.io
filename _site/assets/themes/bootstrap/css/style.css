@@ -63,3 +63,10 @@
   background: #57A957;
   border: 1px solid #4c964d;
   color: #FFF; }
+
+body{
+  background-color: #fafafa;
+  font: 18px 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif;
+  color: #222;
+  line-height: 27px;
+}
